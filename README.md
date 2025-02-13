@@ -1,5 +1,3 @@
-# ResponsiveLandingPage-StyledGenie
-Responsive landing page for StyledGenie's fashion services using HTML, CSS, and JavaScript. Features include a hero section, service highlights, testimonials, and a CTA button. Ensures mobile responsiveness with Flexbox, Grid, and media queries. Includes CSS animations and smooth scrolling for interactivity.
 # Responsive Landing Page - StyledGenie
 
 ## Overview
