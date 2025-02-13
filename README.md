@@ -19,10 +19,10 @@ This project is a responsive landing page designed for StyledGenie's fashion ser
 ## Installation & Usage
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/styledgenie-landing-page.git
+git clone https://github.com/khush9651/ResponsiveLandingPage-StyledGenie.git
 
 # Navigate to the project folder
-cd styledgenie-landing-page
+cd ResponsiveLandingPage-StyledGenie
 
 # Open index.html in a browser to view the landing page
 ```
