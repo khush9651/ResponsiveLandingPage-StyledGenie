@@ -38,7 +38,6 @@ styledgenie-landing-page/
 │── images/           # Image assets
 ```
 
-
 Developed by Khushi Vishwakarma as part of Website Development Assignment 1.
 
 ## Deployment
