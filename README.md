@@ -38,15 +38,17 @@ styledgenie-landing-page/
 │── images/           # Image assets
 ```
 
-## Evaluation Criteria
-The project will be evaluated based on:
-- **Design Aesthetics & UI/UX Quality**: Clean, modern, and visually appealing layout.
-- **Mobile Responsiveness**: Adaptability across different screen sizes.
-- **Code Structure & Cleanliness**: Well-organized, properly commented, and efficient code.
-- **Creativity & Interactive Elements**: Effective use of animations and interactivity.
+
+Developed by Khushi Vishwakarma as part of Website Development Assignment 1.
 
-## Credits
-Developed by [Your Name] as part of Website Development Assignment 1.
+## Deployment
+To deploy the landing page:
+1. Upload the project folder to a web hosting service or deploy via GitHub Pages.
+2. Ensure all assets (CSS, JS, images) are correctly linked.
+3. Test the page on different devices for responsiveness.
+
+## Contributions
+Contributions are welcome! Feel free to fork this repository and submit pull requests to enhance the project.
 
 ## License
 This project is for educational purposes only.
