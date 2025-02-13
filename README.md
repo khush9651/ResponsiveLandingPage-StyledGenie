@@ -46,10 +46,7 @@ To deploy the landing page:
 1. Upload the project folder to a web hosting service or deploy via GitHub Pages.
 2. Ensure all assets (CSS, JS, images) are correctly linked.
 3. Test the page on different devices for responsiveness.
-
-## Contributions
-Contributions are welcome! Feel free to fork this repository and submit pull requests to enhance the project.
-
+   
 ## License
 This project is for educational purposes only.
 
